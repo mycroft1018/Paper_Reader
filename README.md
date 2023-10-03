@@ -1,2 +1,1 @@
-# Paper_Reader
-reader notes
+just some read notes
