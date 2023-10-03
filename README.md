@@ -1,1 +1,1 @@
-just some read notes
+just some readnotes
